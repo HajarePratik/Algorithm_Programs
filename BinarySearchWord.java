@@ -33,7 +33,7 @@ public class BinarySearchWord
 
 		// Passing a value to the array
 		String[] arr = { "Pratik", "Murtaza", "Sandesh", "Parth" };
-		String Name = "Sandesh";
+		String Name = "Murtaza";
 		int result = binarySearch(arr, Name);
 
 		// Checking the value is present or not
